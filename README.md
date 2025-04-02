@@ -18,8 +18,8 @@ I'm Alex, a passionate developer interested in AI, machine learning, and Rust. I
 
 
 ## 📌 Featured Projects  
-🔹 **[AI Trading Bot](https://github.com/your-username/ai-trading-bot)** - Developing an AI-driven stock trading algorithm using an LSTM neural network.  
-🔹 **[Rust CLI To-Do App](https://github.com/your-username/rust-todo-cli)** - A task manager built with Rust using Clap and enums.  
+🔹 **[AI Trading Bot](https://github.com/your-username/trader-v2)** - Developing an AI-driven stock trading algorithm using an LSTM neural network.  
+🔹 **[Rust CLI To-Do App](https://github.com/your-username/Rusty_Tracker)** - A task manager built with Rust using Clap and enums.  
 🔹 **More coming soon...**  
 
 ## 📊 GitHub Stats  
