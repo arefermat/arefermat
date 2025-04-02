@@ -22,8 +22,8 @@ I'm Alex, a passionate developer interested in AI, machine learning, and stock t
 🔹 **More coming soon...**  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arefermat&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arefermat&layout=compact&theme=dark)  
 
 ---
 
