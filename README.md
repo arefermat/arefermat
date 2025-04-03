@@ -23,8 +23,8 @@ I'm Alex, a passionate developer interested in AI, machine learning, and Rust. I
 🔹 **More coming soon...**  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arefermat&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arefermat&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arefermat&show_icons=true&theme=dark&v=1)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arefermat&layout=compact&theme=dark&v=1)  
 
 ---
 
