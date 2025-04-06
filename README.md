@@ -25,7 +25,6 @@ I'm Alex, a passionate developer interested in AI, machine learning, and Rust. I
 ![Tokio](https://img.shields.io/badge/Tokio-663399?style=for-the-badge)
 
 ### 🧪 Testing & Learning
-![Rust Tests](https://img.shields.io/badge/&#35;[test]-8B0000?style=for-the-badge)
 ![Rustlings](https://img.shields.io/badge/Rustlings-DEA584?style=for-the-badge)
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 
