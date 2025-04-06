@@ -4,21 +4,40 @@ I'm Alex, a passionate developer interested in AI, machine learning, and Rust. I
 
 ## 🚀 About Me  
 - 🔥 **Building AI-powered trading algorithms**  
-- 📚 **Learning Rust, Python, and machine learning**  
-- 💻 **Exploring deep learning & financial AI models**  
+- 📚 **Learning Rust, web development, and cloud computing**  
+- 💻 **Exploring web development & cloud computing**  
 - 🌍 **Multilingual learner: English, Spanish, French**  
 
-## 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
-![Bevy](https://img.shields.io/badge/Bevy-FA4F00?style=for-the-badge&logo=bevy&logoColor=white)
+## 🦀 Rust Tech Stack
+
+### 💡 Language & Package Manager
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### ⚙️ CLI Development
+![Clap](https://img.shields.io/badge/Clap-7B42BC?style=for-the-badge)
+![Serde](https://img.shields.io/badge/Serde-1E90FF?style=for-the-badge)
+![std::fs](https://img.shields.io/badge/std::fs-555555?style=for-the-badge)
+
+### 🌐 Web API / Backend
+![Axum](https://img.shields.io/badge/Axum-4B0082?style=for-the-badge)
+![Actix-Web](https://img.shields.io/badge/Actix--Web-25D366?style=for-the-badge)
+![Tokio](https://img.shields.io/badge/Tokio-663399?style=for-the-badge)
+
+### 🧪 Testing & Learning
+![Rust Tests](https://img.shields.io/badge/&#35;[test]-8B0000?style=for-the-badge)
+![Rustlings](https://img.shields.io/badge/Rustlings-DEA584?style=for-the-badge)
+![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+
+### 🚀 Deployment
+![Fly.io](https://img.shields.io/badge/Fly.io-011627?style=for-the-badge)
+
+### 🎨 Optional Frontend
+![Leptos](https://img.shields.io/badge/Leptos-6D28D9?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## 📌 Featured Projects  
-🔹 **[AI Trading Bot](https://github.com/arefermat/trader-v2)** - Developing an AI-driven stock trading algorithm using an LSTM neural network.  
 🔹 **[Rust CLI To-Do App](https://github.com/arefermat/Rusty_Tracker)** - A task manager built with Rust using Clap and enums.  
 🔹 **More coming soon...**  
 
