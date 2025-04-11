@@ -14,11 +14,6 @@ I'm Alex, a passionate developer interested in AI, machine learning, and Rust. I
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### ⚙️ CLI Development
-![Clap](https://img.shields.io/badge/Clap-7B42BC?style=for-the-badge)
-![Serde](https://img.shields.io/badge/Serde-1E90FF?style=for-the-badge)
-![std::fs](https://img.shields.io/badge/std::fs-555555?style=for-the-badge)
-
 ### 🌐 Web API / Backend
 ![Axum](https://img.shields.io/badge/Axum-4B0082?style=for-the-badge)
 ![Actix-Web](https://img.shields.io/badge/Actix--Web-25D366?style=for-the-badge)
